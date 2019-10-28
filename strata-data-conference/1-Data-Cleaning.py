@@ -49,3 +49,5 @@ print(data.keys())
 
 # More checks
 print(data['louis'][:2])
+
+next(iter(data.keys()))

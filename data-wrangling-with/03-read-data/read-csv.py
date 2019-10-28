@@ -1,6 +1,6 @@
 import csv
 
-filename = '../data/chp03/data-text.csv'
+filename = 'data/chp03/data-text.csv'
 
 
 def read_csv(file):
@@ -21,3 +21,4 @@ def read_csv_in_dict(file):
 
 read_csv(filename)
 read_csv_in_dict(filename)
+
