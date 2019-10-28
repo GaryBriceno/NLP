@@ -7,4 +7,3 @@ by: Katharine Jarmul, Jacqueline Kazil
 
 Code repository:
 https://github.com/jackiekazil/data-wrangling
-
